@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulmureithi
-- 👀 I’m interested in Python/Django/Flask
-- 🌱 I’m currently learning Backend Web Development
+- 👀 I’m interested in Python/Django/FastAPI
+- 🌱 I’m currently learning Backend and API Development
 - 💞️ I’m looking to collaborate on Backend Web Dev
 - 📫 How to reach me mureithipaul999@gmail.com
 
