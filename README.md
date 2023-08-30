@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paulmureithi
 - 👀 I’m interested in Python/Django/FastAPI
-- 🌱 I’m currently learning Backend and API Development
-- 💞️ I’m looking to collaborate on Backend Web Dev
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me mureithipaul999@gmail.com
 
 <!---
